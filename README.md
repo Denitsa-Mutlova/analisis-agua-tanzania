@@ -4,7 +4,7 @@ Proyecto de análisis de datos y machine learning para **predecir si una bomba d
 
 Se hizo como reto grupal del bootcamp **Python Data Analyst de NTT DATA** y recorre el ciclo completo: carga y limpieza de datos con **pandas**, análisis exploratorio, modelo de datos en **SQL (MySQL)**, **modelos de clasificación** con scikit-learn y XGBoost, mapa interactivo con **Folium** y cuadros de mando en **Power BI**.
 
-[Ver el mapa interactivo](docs/mapa_bombas.html) *(se activa con GitHub Pages; ver abajo)*
+**[Ver el mapa interactivo de las bombas](https://denitsa-mutlova.github.io/analisis-agua-tanzania/mapa_bombas.html)** (muestra de 4.000 bombas: verde = funcional, rojo = no funcional)
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-1.5-150458?logo=pandas&logoColor=white)
